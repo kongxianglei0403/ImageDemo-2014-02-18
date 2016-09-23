@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 542
+                    }
+                }
+            }
+        ]
+    }
+]

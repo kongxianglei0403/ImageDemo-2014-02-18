@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\ImageDemo-2014-02-18\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_170a33ba025e7388493b8e76c041cf4d64a29a8a.jar" />
+    </item>
+    <item
+        jar="E:\ImageDemo-2014-02-18\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\ImageDemo-2014-02-18\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_cd66513fe197d42f7f95bafc9e935d6927f02146.jar" />
+    </item>
+    <item
+        jar="E:\ImageDemo-2014-02-18\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\ImageDemo-2014-02-18\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1_070edf62f75c2900463c6bc3ca842bdb0561ec47.jar" />
+    </item>
+    <item
+        jar="E:\ImageDemo-2014-02-18\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\ImageDemo-2014-02-18\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_616e9e4b4b60a6704b8825ce117208be37811db9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\ImageDemo-2014-02-18\app\build\intermediates\pre-dexed\debug\gson-2.2.4_752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+
+</items>

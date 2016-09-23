@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\ImageDemo-2014-02-18\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\ImageDemo-2014-02-18\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
